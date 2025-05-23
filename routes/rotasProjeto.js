@@ -6,7 +6,6 @@ const {
   deleteProjeto,
   updateProjeto,
   getProjetoPorId,
-  adicionarUsuarioPorEmail,
   addUsuarioById,
 } = require("../controllers/projetoController");
 const rotasProjeto = new Router();
