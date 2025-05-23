@@ -1,0 +1,10 @@
+TODO ver se tem como melhorar a resposta dos erros de restrição do banco (email já usado)
+
+OK login               
+OK cadastro
+OK pegar projetos por usuario 
+OK add projeto
+OK delete projeto
+OK update projeto
+
+get tarefas feito na api
